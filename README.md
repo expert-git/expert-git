@@ -12,28 +12,6 @@ I'm a full stack developer who is passionate about customizing open-source more 
 
 Software development is very challenging and need to think of lots of solutions. Depending on the solution, we have to research proper tech can face unexpected things. I have focused on updating a HSP.
 
-###
-<h1>Find me elsewhere 🌎</h1>
-
-<p>
-    <a href="https://www.linkedin.com/in/jo-yong-ji-44a3171bb/" rel="nofollow">
-        <img src="img/linkedin.png" width="45">
-    </a>
-    <a href="https://www.facebook.com/joyong.ji" rel="nofollow">
-        <img src="img/facebook.png" width="45">
-    </a>
-    <a href="https://twitter.com/JiJoyong" rel="nofollow">
-        <img src="img/twitter.png" width="45">
-    </a>
-    <a href="mailto:expertgit@gmail.com" rel="nofollow">
-        <img src="img/google-plus.png" width="45">
-    </a>
-    <a href="https://www.instagram.com/joyong.ji/" rel="nofollow">
-        <img src="img/instagram.png" width="45">
-    </a>
-</p>
-
-###
 
 <h1>Languages and Tools<h1>
 
